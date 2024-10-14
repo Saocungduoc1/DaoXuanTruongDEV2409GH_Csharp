@@ -1,0 +1,15 @@
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\bin\Debug\net7.0\bai1.exe
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\bin\Debug\net7.0\bai1.deps.json
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\bin\Debug\net7.0\bai1.runtimeconfig.json
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\bin\Debug\net7.0\bai1.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\bin\Debug\net7.0\bai1.pdb
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\bai1.csproj.AssemblyReference.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\bai1.AssemblyInfoInputs.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\bai1.AssemblyInfo.cs
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\bai1.csproj.CoreCompileInputs.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\bai1.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\refint\bai1.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\bai1.pdb
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\bai1.genruntimeconfig.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\bai1\bai1\obj\Debug\net7.0\ref\bai1.dll
