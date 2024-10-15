@@ -1,0 +1,15 @@
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\bin\Debug\net7.0\lab2_0.exe
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\bin\Debug\net7.0\lab2_0.deps.json
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\bin\Debug\net7.0\lab2_0.runtimeconfig.json
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\bin\Debug\net7.0\lab2_0.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\bin\Debug\net7.0\lab2_0.pdb
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\lab2_0.csproj.AssemblyReference.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\lab2_0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\lab2_0.AssemblyInfoInputs.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\lab2_0.AssemblyInfo.cs
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\lab2_0.csproj.CoreCompileInputs.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\lab2_0.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\refint\lab2_0.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\lab2_0.pdb
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\lab2_0.genruntimeconfig.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Session2\lab2_0\obj\Debug\net7.0\ref\lab2_0.dll
