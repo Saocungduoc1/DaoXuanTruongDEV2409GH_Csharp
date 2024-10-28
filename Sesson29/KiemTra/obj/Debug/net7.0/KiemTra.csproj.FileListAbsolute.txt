@@ -1,0 +1,15 @@
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\bin\Debug\net7.0\KiemTra.exe
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\bin\Debug\net7.0\KiemTra.deps.json
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\bin\Debug\net7.0\KiemTra.runtimeconfig.json
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\bin\Debug\net7.0\KiemTra.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\bin\Debug\net7.0\KiemTra.pdb
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\KiemTra.csproj.AssemblyReference.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\KiemTra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\KiemTra.AssemblyInfoInputs.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\KiemTra.AssemblyInfo.cs
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\KiemTra.csproj.CoreCompileInputs.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\KiemTra.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\refint\KiemTra.dll
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\KiemTra.pdb
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\KiemTra.genruntimeconfig.cache
+D:\Devmaster\DaoXuanTruongDEV2409GH_Csharp\Sesson29\KiemTra\obj\Debug\net7.0\ref\KiemTra.dll
